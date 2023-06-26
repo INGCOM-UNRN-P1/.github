@@ -8,3 +8,6 @@ Computación de la Universidad Nacional de Rio Negro, Sede Andina.
 En esta materia aprenderemos a programar utilizando el lenguaje de 
 programación C
 
+## Cursadas
+
+Cursada del [2023](https://github.com/INGCOM-UNRN-P1/cursada-2023)
